@@ -28,7 +28,7 @@ Quick start option:
 
 ## Technology Stacks:
 
-<img src="teachercode/src/assets/github/react.png" width="100" height="100"> <img src="src/assets/github/django.png" width="100" height="100"> <img src="src/assets/github/html.png" width="80" height="80"> <img src="src/assets/github/css.png" width="100" height="100"> <img src="src/assets/github/material-ui.png" width="100" height="100"> <img src="src/assets/github/bootstrap.png" width="100" height="100">
+<img src="teachercode/src/assets/github/react.png" width="100" height="100"> <img src="teachercode/src/assets/github/django.png" width="100" height="100"> <img src="teachercode/src/assets/github/html.png" width="80" height="80"> <img src="teachercode/src/assets/github/css.png" width="100" height="100"> <img src="teachercode/src/assets/github/material-ui.png" width="100" height="100"> <img src="teachercode/src/assets/github/bootstrap.png" width="100" height="100">
 
 ###
 
