@@ -93,9 +93,11 @@ Quick start option:
 
 [![Student Inside Class](teachercode/src/assets/github/inclass-student1.png)](https://learnzilla-student.netlify.app/)
 
+[![Student Inside Class](teachercode/src/assets/github/inclass-student2.png)](https://learnzilla-student.netlify.app/)
+
 # Profile Page
 
-[![Student Profile](teachercode/src/assets/github/profile-student2.png)](https://learnzilla-student.netlify.app/)
+[![Student Profile](teachercode/src/assets/github/profile-student.png)](https://learnzilla-student.netlify.app/)
 
 # Time Table Page
 
