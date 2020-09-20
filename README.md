@@ -28,7 +28,7 @@ Quick start option:
 
 ## Technology Stacks:
 
-<img src="src/assets/github/react.png" width="100" height="100"> <img src="src/assets/github/django.png" width="100" height="100"> <img src="src/assets/github/html.png" width="80" height="80"> <img src="src/assets/github/css.png" width="100" height="100"> <img src="src/assets/github/material-ui.png" width="100" height="100"> <img src="src/assets/github/bootstrap.png" width="100" height="100">
+<img src="teachercode/src/assets/github/react.png" width="100" height="100"> <img src="src/assets/github/django.png" width="100" height="100"> <img src="src/assets/github/html.png" width="80" height="80"> <img src="src/assets/github/css.png" width="100" height="100"> <img src="src/assets/github/material-ui.png" width="100" height="100"> <img src="src/assets/github/bootstrap.png" width="100" height="100">
 
 ###
 
@@ -36,15 +36,15 @@ Quick start option:
 
 # Main Page
 
-[![Main Page](src/assets/github/mainpage.png)](https://learnzillaedu.netlify.app/)
+[![Main Page](teachercode/src/assets/github/mainpage.png)](https://learnzillaedu.netlify.app/)
 
 # Full Page
 
-[![Full Page](src/assets/github/fullpage.png)](https://learnzillaedu.netlify.app/)
+[![Full Page](teachercode/src/assets/github/fullpage.png)](https://learnzillaedu.netlify.app/)
 
 # Login Options
 
-[![Login Options](src/assets/github/loginoptions.png)](https://learnzillaedu.netlify.app/)
+[![Login Options](teachercode/src/assets/github/loginoptions.png)](https://learnzillaedu.netlify.app/)
 
 ###
 
@@ -52,54 +52,54 @@ Quick start option:
 
 # Signin Page
 
-[![Teacher SignIn](src/assets/github/signin-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher SignIn](teachercode/src/assets/github/signin-teacher.png)](https://learnzilla-teacher.netlify.app/)
 
 # Signup Page
 
-[![Teaccher SignIn](src/assets/github/signup-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teaccher SignIn](teachercode/src/assets/github/signup-teacher.png)](https://learnzilla-teacher.netlify.app/)
 
 # Home page
 
-[![Teacher Home Page](src/assets/github/home-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Home Page](teachercode/src/assets/github/home-teacher.png)](https://learnzilla-teacher.netlify.app/)
 
 # Inside Class
 
-[![Teacher Inside Class](src/assets/github/inclass-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Inside Class](teachercode/src/assets/github/inclass-teacher.png)](https://learnzilla-teacher.netlify.app/)
 
 # Profile Page
 
-[![Teacher Profile](src/assets/github/profile-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Profile](teachercode/src/assets/github/profile-teacher.png)](https://learnzilla-teacher.netlify.app/)
 
 # Time Table Page
 
-[![Teacher Time Table](src/assets/github/timetable-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Time Table](teachercode/src/assets/github/timetable-teacher.png)](https://learnzilla-teacher.netlify.app/)
 
 ###
 
 # [Student Dashboard](https://learnzilla-student.netlify.app/)
 
 # Signin Page
-[![Student SignIn](src/assets/github/signin-student.png)](https://learnzilla-student.netlify.app/)
+[![Student SignIn](teachercode/src/assets/github/signin-student.png)](https://learnzilla-student.netlify.app/)
 
 # Signup Page
 
-[![Student SignIn](src/assets/github/signup-student.png)](https://learnzilla-student.netlify.app/)
+[![Student SignIn](teachercode/src/assets/github/signup-student.png)](https://learnzilla-student.netlify.app/)
 
 # Home Page
 
-[![Student Home Page](src/assets/github/home-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Home Page](teachercode/src/assets/github/home-student.png)](https://learnzilla-student.netlify.app/)
 
 # Inside Class
 
-[![Student Inside Class](src/assets/github/inclass-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Inside Class](teachercode/src/assets/github/inclass-student1.png)](https://learnzilla-student.netlify.app/)
 
 # Profile Page
 
-[![Student Profile](src/assets/github/profile-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Profile](teachercode/src/assets/github/profile-student2.png)](https://learnzilla-student.netlify.app/)
 
 # Time Table Page
 
-[![Student Time Table](src/assets/github/timetable-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Time Table](teachercode/src/assets/github/timetable-student.png)](https://learnzilla-student.netlify.app/)
 
 ## Team Members
-<img src="src/assets/img/tejas.png" width="120" height="120"> <img src="src/assets/img/aditya.png" width="120" height="120"> <img src="src/assets/img/rishabh.png" width="120" height="120"> <img src="src/assets/img/shreyas.png" width="120" height="120">
+<img src="teachercode/src/assets/img/tejas.png" width="120" height="120"> <img src="teachercode/src/assets/img/aditya.png" width="120" height="120"> <img src="teachercode/src/assets/img/rishabh.png" width="120" height="120"> <img src="teachercode/src/assets/img/shreyas.png" width="120" height="120">
