@@ -2,10 +2,6 @@
 
 ## [PPT Presentation](https://drive.google.com/file/d/1Ovd_vqFKFMzPjbwH7P_m7YJ6HYKnMinp/view?usp=sharing)
 
-## [Live Demo Video](https://youtu.be/Egw7MupcGrg)
-
-###
-
 ## Quick Start
 
 Quick start option:
