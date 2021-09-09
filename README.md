@@ -1,6 +1,6 @@
 ## [App Live here](https://learnzillaedu.netlify.app/)
 
-## [PPT Presentation](https://docs.google.com/presentation/d/140FFQtK0yW-P2RPmOA7wMTd31hqO8tb1Dzed1c40IO0/edit?usp=sharing)
+## [PPT Presentation](https://drive.google.com/file/d/1Ovd_vqFKFMzPjbwH7P_m7YJ6HYKnMinp/view?usp=sharing)
 
 ## [Live Demo Video](https://youtu.be/Egw7MupcGrg)
 
